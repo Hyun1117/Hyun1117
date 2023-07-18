@@ -1,6 +1,6 @@
-hello world
 
-About me
+
+**About me**
 
 - 새로운것을 만들기 좋아하는 초보 개발자입니다!
 
