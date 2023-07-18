@@ -18,3 +18,6 @@
 
 ### DB
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black">
+
+### ETC
+<img src="https://img.shields.io/badge/java-03C75A?style=for-the-badge&logo=java&logoColor=black">
