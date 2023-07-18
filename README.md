@@ -8,5 +8,7 @@
 
 - 저의 목표는 개발자들이 만든 길을 뛰어 넘어 저만의 길을 만드는 것입니다.
 
-### My Skill
-javascript
+## My Skill
+
+### Front End
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
